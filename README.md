@@ -3,10 +3,10 @@ Booking and availability module
 
 ## Related Projects
 
-  - https://github.com/airJLD/Booking
-  - https://github.com/airJLD/Reviews
-  - https://github.com/airJLD/Gallery
-  - https://github.com/airJLD/Description
+  - https://github.com/SDC7/Booking
+  - https://github.com/SDC7/Reviews
+  - https://github.com/SDC7/Gallery
+  - https://github.com/SDC7/Description
 
 ## Table of Contents
 
